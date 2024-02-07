@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "[bicep]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-bicep",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  }
+}
